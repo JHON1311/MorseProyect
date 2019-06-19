@@ -1,0 +1,5 @@
+com\mysqlNew\demoMysqlNew\User.class
+com\mysqlNew\demoMysqlNew\DemoMysqlNewApplication.class
+com\mysqlNew\demoMysqlNew\ServletInitializer.class
+com\mysqlNew\demoMysqlNew\UserRepository.class
+com\mysqlNew\demoMysqlNew\MainController.class
